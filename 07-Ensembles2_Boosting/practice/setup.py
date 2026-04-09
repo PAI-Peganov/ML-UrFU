@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.ensemble import GradientBoostingClassifier
@@ -61,17 +61,8 @@ def animate_boosting_comparison(X, y, frames=30, interval=200):
     plt.close()
 
     return HTML(ani.to_jshtml())
-=======
-import numpy as np
-import matplotlib.pyplot as plt
-from sklearn.ensemble import GradientBoostingClassifier
-from xgboost import XGBClassifier
-from lightgbm import LGBMClassifier
-from catboost import CatBoostClassifier
-from matplotlib.animation import FuncAnimation
-from IPython.display import HTML
 
-import warnings
+
 warnings.filterwarnings('ignore')
 
 
@@ -124,4 +115,3 @@ def animate_boosting_comparison(X, y, frames=30, interval=200):
     plt.close()
 
     return HTML(ani.to_jshtml())
->>>>>>> fd826226a3b77e26123c5eddb7cd11b37fe0e573
