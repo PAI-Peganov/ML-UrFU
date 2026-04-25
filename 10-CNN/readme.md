@@ -1,10 +1,4 @@
 # Лекции:
-* [Лекция]()
-* [Запись лекции]()
-
-# Практика:
-* [Практика]()
-* [Запись практики]()
 * [Лекция](https://github.com/AlexanderZiyatdinov/ML-UrFU/blob/main/10-CNN/lecture/10-lecture.ipynb)
 * [Запись лекции](https://fiit.ktalk.ru/recordings/vaQRSJ780XcCQLzAhdHK)
 
