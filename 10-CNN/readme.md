@@ -6,4 +6,4 @@
 * [Практика](https://github.com/AlexanderZiyatdinov/ML-UrFU/blob/main/10-CNN/practice/practice.ipynb)
 * [Запись практики](https://fiit.ktalk.ru/recordings/TvMsG85zpEctBVssSr7M)
 
-* [Домашка]()
+* [Домашка](https://github.com/AlexanderZiyatdinov/ML-UrFU/blob/main/10-CNN/hw/hw.ipynb)
